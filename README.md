@@ -1,3 +1,5 @@
+Resume link "https://drive.google.com/file/d/1iGLmWWNDc80Wc10j1F6sQGGypMuYQjiJ/view?usp=sharing"
+
 Me API Playground
 
 A full-stack Me-API that stores your personal profile, projects, skills, and social links with a clean UI and fully queryable backend.
