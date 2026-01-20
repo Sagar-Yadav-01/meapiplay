@@ -1,7 +1,11 @@
 export const runtime = "nodejs";
 
-import { connectDB } from "@/lib/db";
-import Profile from "@/models/Profile";
+import Link from 'next/link';
+import { Mail, GraduationCap, Code2, Briefcase, Github, Linkedin, ArrowRight, Sparkles, Cpu, Globe } from 'lucide-react';
+
+import AnimatedSection from '@/components/AnimatedSection'; // ✅ FIX
+import { connectDB } from '@/lib/db';
+import Profile from '@/models/Profile';
 
 async function getProfile() {
   try {
